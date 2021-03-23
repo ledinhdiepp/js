@@ -1,25 +1,54 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import Topbar from './components/Topbar';
+import Header from './components/Header';
+import Hero from './components/Hero';
+import Ctasection from './components/Ctasection';
+import Services from './components/Services';
+import Footer from './components/Footer';
+import Fortfolio from './components/Portfolio';
+import Client from './components/Client';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+class App extends React.Component{
+  render(){
+    return(
+      
+    <div className="_0123">
+      <section id="topbar" className="d-none d-lg-block">
+        <Topbar/>
+      </section>
+
+      <header id="header">
+        <Header/>
       </header>
+
+      <section id="hero">
+        <Hero/>
+      </section>
+
+      <section id="cta" class="cta">
+        <Ctasection/>
+      </section>
+
+      <section id="services" class="services">
+        <Services/>
+      </section>
+
+      <section id="portfolio" class="portfolio">
+        <Fortfolio/>
+      </section>
+
+      <section id="clients" class="clients">
+        <Client/>
+      </section>
+      <footer id="footer">
+        <Footer/>
+      </footer>
     </div>
-  );
+    
+      
+    
+    );
+  }
 }
 
 export default App;
