@@ -6,12 +6,10 @@ class Ctasection extends React.Component {
             <div className="container">
             <div className="row">
               <div className="col-lg-9 text-center text-lg-left">
-                <h3>We've created more than <span>200 websites</span> this year!</h3>
-                <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                <h3>Thành Tựu của  <span>TTD</span></h3>
+                <p> Sản phẩm của Thái Tuấn được kiểm soát chặt chẽ theo hệ thống quản lý chất lượng quốc tế: ISO 9000, 5S. Trong nhiều năm liền, Thái Tuấn được vinh danh ở nhiều giải thưởng uy tín: Sao Vàng Đất Việt, Hàng Việt Nam Chất Lượng Cao, Doanh Nghiệp Thương Hiệu Mạnh Việt Nam, … đồng thời vinh dự nhận được huân chương khen thưởng của chính phủ - Huân Chương Lao Động Hạng 2. Đây luôn là động lực cho Thái Tuấn không ngừng cải tiến để giữ vững và phát triển thương hiệu THÁI TUẤN không chỉ ở thị trường nội địa mà ở cả thị trường quốc tế.</p>
               </div>
-              <div className="col-lg-3 cta-btn-container text-center">
-                <a className="cta-btn align-middle" href="#">Request a quote</a>
-              </div>
+              
             </div>
           </div>
         );

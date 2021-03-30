@@ -9,9 +9,11 @@ class Hero extends Component {
               <div className="carousel-item active" style={{backgroundImage: 'url(assets/img/slide/slide-1.jpg)'}}>
                 <div className="carousel-container">
                   <div className="carousel-content animate__animated animate__fadeInUp">
-                    <h2>Welcome to <span>Flattern</span></h2>
-                    <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-                    <div className="text-center"><a href className="btn-get-started">Read More</a></div>
+                    <h2>Chào mừng tới <span>TTD</span></h2>
+                    <p>Công ty Cổ Phần TTD là một trong những doanh nghiệp dệt may cung cấp sản phẩm và
+                       dịch vụ thời trang hàng đầu Việt Nam, chuyên sản xuất vải dệt Jacquard, vải in bông trên công nghệ in digital
+                      , vải đơn sắc, vải đa sắc … từ sợi polyester, spandex, visco, …. với công nghệ tiên tiến được chuyển giao từ Nhật Bản và Châu Âu.</p>
+                    <div className="text-center"><a href className="btn-get-started">Thêm</a></div>
                   </div>
                 </div>
               </div>
@@ -19,8 +21,10 @@ class Hero extends Component {
               <div className="carousel-item" style={{backgroundImage: 'url(assets/img/slide/slide-2.jpg)'}}>
                 <div className="carousel-container">
                   <div className="carousel-content animate__animated animate__fadeInUp">
-                    <h2>Lorem Ipsum Dolor</h2>
-                    <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+                    <h2>TTD</h2>
+                    <p>Công ty Cổ Phần TTD là một trong những doanh nghiệp dệt may cung cấp sản phẩm và
+                       dịch vụ thời trang hàng đầu Việt Nam, chuyên sản xuất vải dệt Jacquard, vải in bông trên công nghệ in digital
+                      , vải đơn sắc, vải đa sắc … từ sợi polyester, spandex, visco, …. với công nghệ tiên tiến được chuyển giao từ Nhật Bản và Châu Âu.</p>
                     <div className="text-center"><a href className="btn-get-started">Read More</a></div>
                   </div>
                 </div>
@@ -29,8 +33,10 @@ class Hero extends Component {
               <div className="carousel-item" style={{backgroundImage: 'url(assets/img/slide/slide-3.jpg)'}}>
                 <div className="carousel-container">
                   <div className="carousel-content animate__animated animate__fadeInUp">
-                    <h2>Sequi ea ut et est quaerat</h2>
-                    <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+                    <h2>TTD</h2>
+                    <p>Công ty Cổ Phần TTD là một trong những doanh nghiệp dệt may cung cấp sản phẩm và
+                       dịch vụ thời trang hàng đầu Việt Nam, chuyên sản xuất vải dệt Jacquard, vải in bông trên công nghệ in digital
+                      , vải đơn sắc, vải đa sắc … từ sợi polyester, spandex, visco, …. với công nghệ tiên tiến được chuyển giao từ Nhật Bản và Châu Âu.</p>
                     <div className="text-center"><a href className="btn-get-started">Read More</a></div>
                   </div>
                 </div>

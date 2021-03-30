@@ -6,7 +6,7 @@ class Client extends Component {
             <div className="container">
         <div className="section-title" data-aos="fade-up">
           <h2>Our <strong>Clients</strong></h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+         
         </div>
         <div className="row no-gutters clients-wrap clearfix" data-aos="fade-up">
           <div className="col-lg-3 col-md-4 col-xs-6">
